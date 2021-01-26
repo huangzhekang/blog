@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<b>中国民生银行信息科技部，负责零售信贷风险管理系统研发、架构设计与系统性能优化。</b><br>
+热衷于研究各种技术实现细节、看了N多好书、写一些博客、在Github上分享技术，对技术和写作情有独钟。
 
-You can use the [editor on GitHub](https://github.com/bernie1991/bernie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<b>做你能产生价值的事情，为当下增值</b>，比如：<br>
+1、已完成的工作是不是做得足够好，体验、性能是否还有优化的空间？<br>
+2、团队中有哪些同事忙不过来，自己是否可以帮上忙？<br>
+3、发现团队中哪些流程特别耗时，写个工具优化优化<br>
+4、团队规范、流程有没有不合理的地方，主动找组长沟通改善<br>
+5、自己当前维护的项目是否有历史遗留债务，可以尝试着小幅度重构<br>
+6、自己维护的项目文档、流程图是否齐全？我应该把这些文档补齐<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>做能让你进步的事情，为未来投资</b>，比如：<br>
+1、自己所负责工作的技术栈是否太落后？考虑使用新技术代替<br>
+2、对某一块的代码不熟悉，去阅读它<br>
+3、对团队其它项目的代码感兴趣，去了解、学习<br>
+4、是否有优质的开源项目值得引进到项目中，去熟悉原理然后引进<br>
+5、是否有可以造的轮子<br>
 
-### Markdown
+架构师<br>
+具有知识的深度和广度<br>
+掌握全局并洞悉局部，依据具体的业务场景给出解决方案<br>
+负责在整个项目中对技术活动和技术说明进行指导和协调<br>
+立足于技术和业务之间，针对业务中存在的诸多变化，挑选适合的技术架构和技术方案<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+主要责任<br>
+1、确认需求与拆分系统<br>
+2、技术选型<br>
+3、系统分解<br>
+4、制作技术规格说明<br>
 
-```markdown
-Syntax highlighted code block
+成长路线<br>
+1、在某一业务深入了解<br>
+2、学习技术基础，阅读设计规范<br>
+3、框架源码<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bernie1991/bernie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+日常工作内容<br>
+1、排期，根据需求和人员分解任务<br>
+2、进度控制，阶段性了解开发进度，并合理调整<br>
+3、结果监督，保证最终成果质量，并及时反馈<br>
+4、代码质量控制，代码review，代码规范，代码持续跟进<br>
+5、需求跟进，产品合理规划需求<br>
+6、生产环境监控，告警评估、关键技术，业务指标掌控<br>
+7、目标计划管理、思考计划和目标愿景，并和团队成员充分沟通<br>
+8、制定里程碑计划、制定细节计划、控制进度<br>
